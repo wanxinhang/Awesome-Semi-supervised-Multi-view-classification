@@ -23,17 +23,18 @@ We are looking forward for other participants to share their papers and codes. I
 
 
 ## Graph SSMVC
-|Paper|Year|Publish|PDF|Code|Environment|
-|  :-----| :------: | :------: | :------: | :------: | :------: |
-|Multi-View Clustering and Semi-Supervised Classification with Adaptive Neighbours (MLAN)|2017|AAAI|[link](https://ojs.aaai.org/index.php/AAAI/article/view/10909)|[link](https://github.com/Zing22/mlan)|matlab|
-|Scalable Multi-View Semi-Supervised Classification via Adaptive Regression (MVAR)|2017|TIP|[link](https://ieeexplore.ieee.org/abstract/document/7953537)|[link](https://github.com/taohong08/Scalable-Multi-View-Semi-Supervised-Classification-via-Adaptive-Regression)|matlab|
-|Parameter-Free Auto-Weighted Multiple Graph Learning (AMGL)|2016|IJCAI|[link](https://www.ijcai.org/Proceedings/16/Papers/269.pdf)|[link](https://github.com/kylejingli/AMGL-IJCAI16)|matlab|
+|Paper|Year|Publish|PDF|Code|
+|  :-----| :------: | :------: | :------: | :------: |
+|Joint consensus and diversity for multi-view semi-supervised classification (JCD)|2020|Machine Learning|[link](https://link.springer.com/article/10.1007/s10994-019-05844-9)|[matlab](https://github.com/ChenpingHou/Joint-Consensus-and-Diversity-for-Multi-view-Semi-supervised-Classification/blob/master/JCD.m)|
+|Multi-View Clustering and Semi-Supervised Classification with Adaptive Neighbours (MLAN)|2017|AAAI|[link](https://ojs.aaai.org/index.php/AAAI/article/view/10909)|[matlab](https://github.com/Zing22/mlan)|
+|Scalable Multi-View Semi-Supervised Classification via Adaptive Regression (MVAR)|2017|TIP|[link](https://ieeexplore.ieee.org/abstract/document/7953537)|[matlab](https://github.com/taohong08/Scalable-Multi-View-Semi-Supervised-Classification-via-Adaptive-Regression)|
+|Parameter-Free Auto-Weighted Multiple Graph Learning (AMGL)|2016|IJCAI|[link](https://www.ijcai.org/Proceedings/16/Papers/269.pdf)|[matlab](https://github.com/kylejingli/AMGL-IJCAI16)|
 
 
 ## Depresentation Learning SSMVC
-|Paper|Year|Publish|PDF|Code|Environment
-|  :-----| :------: | :------: | :------: | :------: | :------: |
-|Embedding Regularizer Learning for Multi-View Semi-Supervised Classification (ERL-MVSC)|2021|TIP|[link](https://ieeexplore.ieee.org/abstract/document/9508823)|[link](https://github.com/huangsuj/ERL-MVSC)|matlab|
+|Paper|Year|Publish|PDF|Code|
+|  :-----| :------: | :------: | :------: | :------: |
+|Embedding Regularizer Learning for Multi-View Semi-Supervised Classification (ERL-MVSC)|2021|TIP|[link](https://ieeexplore.ieee.org/abstract/document/9508823)|[matlab](https://github.com/huangsuj/ERL-MVSC)|
 |MMatch: Semi-Supervised Discriminative Representation Learning for Multi-View Classification (MMatch)|2022|TCSVT|[link](https://ieeexplore.ieee.org/abstract/document/9733884)|-|-|
 
 ---
