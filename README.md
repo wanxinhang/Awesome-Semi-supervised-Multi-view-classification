@@ -16,7 +16,7 @@ We are looking forward for other participants to share their papers and codes. I
 
 ## Content
   - [Graph SSMVC](#Graph-SSMVC)
-  - [Discriminative Depresentation SSMVC](#Discriminative-Depresentation-SSMVC).
+  - [Depresentation Learning SSMVC](#Depresentation-Learning-SSMVC).
   - [Others](#Others).
 
 
