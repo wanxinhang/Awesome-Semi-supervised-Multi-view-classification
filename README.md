@@ -17,6 +17,7 @@ We are looking forward for other participants to share their papers and codes. I
   - [Depresentation Learning SSMVC](#Depresentation-Learning-SSMVC).
   - [NMF based SSMVC](#NMF-based-SSMVC).
   - [Others](#Others).
+  - [Multi view clustering links](#Multi-view-clustering-links)
 
 
 ## Graph SSMVC
@@ -63,7 +64,16 @@ We are looking forward for other participants to share their papers and codes. I
 |Multiview Classification With Cohesion and Diversity (MCCD)|2020|TCYB|[link](https://ieeexplore.ieee.org/document/8566154)|[matlab](https://github.com/taohong08/Multiview-Classification-With-Cohesion-and-Diversity)|
 |Joint consensus and diversity for multi-view semi-supervised classification (JCD)|2020|Machine Learning|[link](https://link.springer.com/article/10.1007/s10994-019-05844-9)|[matlab](https://github.com/ChenpingHou/Joint-Consensus-and-Diversity-for-Multi-view-Semi-supervised-Classification/blob/master/JCD.m)|
 ---
+## Others
+Multi-view-clustering-links:
 
+https://github.com/dugzzuli/A-Survey-of-Multi-view-Clustering-Approaches#the-information-fusion-strategy
+
+https://github.com/wangsiwei2010/awesome-multi-view-clustering
+
+https://github.com/liangnaiyao/multiview_learning
+
+https://github.com/Jeaninezpp/Incomplete-multi-view-clustering#incomplete-multi-view-clustering.
 ###### TIPS
 - If you find this repository useful to your research or work, it is really appreciate to star this repository. 
 - We are looking forward to any comments or discussions or contributions on this topic. :)
