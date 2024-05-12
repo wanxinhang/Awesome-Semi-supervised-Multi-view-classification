@@ -16,7 +16,7 @@ We are looking forward for other participants to share their papers and codes. I
   - [Graph SSMVC](#Graph-SSMVC)
   - [Depresentation Learning SSMVC](#Depresentation-Learning-SSMVC).
   - [NMF based SSMVC](#NMF-based-SSMVC).
-  - [Others](#Others).
+  - [Other Methods](#Other  Methods).
   - [Multi view clustering links](#Multi-view-clustering-links)
 
 
@@ -56,7 +56,7 @@ We are looking forward for other participants to share their papers and codes. I
 |Semi-supervised multi-view clustering with Graph-regularized Partially Shared Non-negative Matrix Factorization (GPSNMF)|2020|KBS|[link](https://www.sciencedirect.com/science/article/pii/S0950705119305271)|[matlab](https://github.com/liangnaiyao/GPSNMF)|
 ---
 
-## Others
+## Other  Methods
 |Paper|Year|Publish|PDF|Code|
 |  :-----: | :------: | :------: | :------: | :------: |
 |Seeded random walk for multi-view semi-supervised classification (SRW-MSC)|2022|KBS|[link](https://www.sciencedirect.com/science/article/pii/S0950705121002793)|-|
@@ -64,8 +64,7 @@ We are looking forward for other participants to share their papers and codes. I
 |Multiview Classification With Cohesion and Diversity (MCCD)|2020|TCYB|[link](https://ieeexplore.ieee.org/document/8566154)|[matlab](https://github.com/taohong08/Multiview-Classification-With-Cohesion-and-Diversity)|
 |Joint consensus and diversity for multi-view semi-supervised classification (JCD)|2020|Machine Learning|[link](https://link.springer.com/article/10.1007/s10994-019-05844-9)|[matlab](https://github.com/ChenpingHou/Joint-Consensus-and-Diversity-for-Multi-view-Semi-supervised-Classification/blob/master/JCD.m)|
 ---
-## Others
-Multi-view-clustering-links:
+## Multi-view-clustering-links:
 
 https://github.com/dugzzuli/A-Survey-of-Multi-view-Clustering-Approaches#the-information-fusion-strategy
 
