@@ -23,7 +23,7 @@ We are looking forward for other participants to share their papers and codes. I
 |Paper|Year|Publish|PDF|Code|
 |  :-----: | :------: | :------: | :------: | :------: |
 |Generative Essential Graph Convolutional Network for Multi-view Semi-supervised Classification (GEGCN)|2024|TMM|[link](https://ieeexplore.ieee.org/document/10462517)|[python](https://github.com/long319/GEGCN)|
-|Label-Weighted Graph-Based Learning for Semi-Supervised Classification Under Label Noise (GEGCN)|2024|TBD|[link](LWGL)|-|
+|Label-Weighted Graph-Based Learning for Semi-Supervised Classification Under Label Noise (LWGL)|2024|TBD|[link](https://ieeexplore.ieee.org/document/10265191)|-|
 |Learnable Graph Convolutional Network and Feature Fusion for Multi-view Learning (LGCN-FF)|2023|Inform Fusion|[link](https://dl.acm.org/doi/abs/10.1016/j.inffus.2023.02.013)|[python](https://github.com/chenzl23/LGCNFF)|
 |Joint learning of feature and topology for multi-view graph convolutional network (JFGCN)|2023|NN|[link](https://dl.acm.org/doi/10.1016/j.neunet.2023.09.006)|[python](https://github.com/YuhongChen2320/JFGCN)|
 |Interpretable Graph Convolutional Network for Multi-View Semi-Supervised Learning (IMvGCN)|2023|TMM|[link](https://ieeexplore.ieee.org/document/10080867)|[python](https://github.com/ZhihaoWu99/IMvGCN)|
