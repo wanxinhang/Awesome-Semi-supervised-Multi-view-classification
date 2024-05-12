@@ -16,7 +16,7 @@ We are looking forward for other participants to share their papers and codes. I
   - [Graph SSMVC](#Graph-SSMVC)
   - [Depresentation Learning SSMVC](#Depresentation-Learning-SSMVC).
   - [NMF based SSMVC](#NMF-based-SSMVC).
-  - [Other Methods](#Other  Methods).
+  - [Other Methods](#Other-Methods).
   - [Multi view clustering links](#Multi-view-clustering-links)
 
 
@@ -56,7 +56,7 @@ We are looking forward for other participants to share their papers and codes. I
 |Semi-supervised multi-view clustering with Graph-regularized Partially Shared Non-negative Matrix Factorization (GPSNMF)|2020|KBS|[link](https://www.sciencedirect.com/science/article/pii/S0950705119305271)|[matlab](https://github.com/liangnaiyao/GPSNMF)|
 ---
 
-## Other  Methods
+## Other Methods
 |Paper|Year|Publish|PDF|Code|
 |  :-----: | :------: | :------: | :------: | :------: |
 |Seeded random walk for multi-view semi-supervised classification (SRW-MSC)|2022|KBS|[link](https://www.sciencedirect.com/science/article/pii/S0950705121002793)|-|
@@ -73,6 +73,7 @@ https://github.com/wangsiwei2010/awesome-multi-view-clustering
 https://github.com/liangnaiyao/multiview_learning
 
 https://github.com/Jeaninezpp/Incomplete-multi-view-clustering#incomplete-multi-view-clustering.
+
 ###### TIPS
 - If you find this repository useful to your research or work, it is really appreciate to star this repository. 
 - We are looking forward to any comments or discussions or contributions on this topic. :)
