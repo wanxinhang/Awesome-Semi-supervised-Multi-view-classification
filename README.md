@@ -66,6 +66,8 @@ We are looking forward for other participants to share their papers and codes. I
 ---
 ## Multi-view-clustering-links:
 
+https://github.com/wanxinhang/Awesome-Continual-Multi-view-clustering
+
 https://github.com/dugzzuli/A-Survey-of-Multi-view-Clustering-Approaches#the-information-fusion-strategy
 
 https://github.com/wangsiwei2010/awesome-multi-view-clustering
