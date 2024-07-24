@@ -59,11 +59,13 @@ We are looking forward for other participants to share their papers and codes. I
 ## Other Methods
 |Paper|Year|Publish|PDF|Code|
 |  :-----: | :------: | :------: | :------: | :------: |
+|Decouple then Classify: A Dynamic Multi-view Labeling Strategy with Shared and Specific Information (DMVLS)|2024|ICML|[link](https://proceedings.mlr.press/v235/wan24e.html)|[python](https://github.com/wanxinhang/ICML2024_decouple_then_classify/)|
 |Seeded random walk for multi-view semi-supervised classification (SRW-MSC)|2022|KBS|[link](https://www.sciencedirect.com/science/article/pii/S0950705121002793)|-|
 |Generative View-Correlation Adaptation for Semi-supervised Multi-view Learning (GVCA)|2020|ECCV|[link](https://link.springer.com/chapter/10.1007/978-3-030-58568-6_19)|[python](https://github.com/wenwen0319/GVCA)|
 |Multiview Classification With Cohesion and Diversity (MCCD)|2020|TCYB|[link](https://ieeexplore.ieee.org/document/8566154)|[matlab](https://github.com/taohong08/Multiview-Classification-With-Cohesion-and-Diversity)|
 |Joint consensus and diversity for multi-view semi-supervised classification (JCD)|2020|Machine Learning|[link](https://link.springer.com/article/10.1007/s10994-019-05844-9)|[matlab](https://github.com/ChenpingHou/Joint-Consensus-and-Diversity-for-Multi-view-Semi-supervised-Classification/blob/master/JCD.m)|
 ---
+
 ## Multi-view-clustering-links:
 
 https://github.com/wanxinhang/Awesome-Continual-Multi-view-clustering
@@ -75,7 +77,14 @@ https://github.com/wangsiwei2010/awesome-multi-view-clustering
 https://github.com/liangnaiyao/multiview_learning
 
 https://github.com/Jeaninezpp/Incomplete-multi-view-clustering#incomplete-multi-view-clustering.
-
+---
+## Citations:
+@inproceedings{wan2024decouple,
+  title={Decouple then Classify: A Dynamic Multi-view Labeling Strategy with Shared and Specific Information},
+  author={Wan, Xinhang and Liu, Jiyuan and Liu, Xinwang and Wen, Yi and Yu, Hao and Wang, Siwei and Yu, Shengju and Wan, Tianjiao and Wang, Jun and Zhu, En},
+  booktitle={Forty-first International Conference on Machine Learning},
+  year={2024}
+}
 ###### TIPS
 - If you find this repository useful to your research or work, it is really appreciate to star this repository. 
-- We are looking forward to any comments or discussions or contributions on this topic. :)
+- We are looking forward to any comments or discussions or contributions on this topic.
